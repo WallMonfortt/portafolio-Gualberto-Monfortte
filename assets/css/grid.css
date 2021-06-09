@@ -2,9 +2,18 @@
     display: flex;
 }
 
+.col-2 {
+    width: 50%;
+    text-align: center;
+    padding-top: 10vh;
+    font-size: 3rem;
+    padding: 3%;
+}
+
 .col-4 {
     width: 25%;
     text-align: center;
     padding-top: 10vh;
     font-size: 3rem;
+    padding: 3%;
 }

@@ -29,8 +29,13 @@
     color: #FFC700;
 }
 
-.first {
-    border-radius: 20px;
-    border-color: solid 2px #D4D4D4;
+header {
+    background-color:rgb(243, 243, 243)
+}
+
+.main-h2 {
+    display: flex;
+    align-items: center;
+    
 }
 
